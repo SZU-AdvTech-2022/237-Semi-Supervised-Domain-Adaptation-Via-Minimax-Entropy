@@ -1,0 +1,6 @@
+@article{REPO-238,
+    author = "Saito, K. and Kim, D. and Sclaroff, S. and Darrell, T. and Saenko, K.",
+    journal = "IEEE",
+    title = "{Semi-Supervised Domain Adaptation via Minimax Entropy}",
+    year = "2019"
+}
